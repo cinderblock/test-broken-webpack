@@ -1,0 +1,16 @@
+{
+  "name": "test-broken-webpack",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Cameron Tacklind <cameron@tacklind.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^2.0.1",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8"
+  }
+}
