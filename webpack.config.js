@@ -7,7 +7,7 @@ var x = config.get('devServer');
 console.log('Before:', x);
 
 // Uncomment to work...
-x = {port: 9000, host: '0.0.0.0'};
+// x = {port: 9000, host: '0.0.0.0'};
 
 console.log('After :', x);
 
